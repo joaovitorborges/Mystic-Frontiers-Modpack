@@ -1,4 +1,7 @@
-# Mystic-Frontiers-Modpack
+# Mystic Frontiers
+
+![Mystic Frontiers Title](https://github.com/user-attachments/assets/42bc92d1-8d13-43be-9d55-2fafafe32d9f)
+
 Issue tracker for Mystic Frontiers Modpack
 
 To download it, visit the [Modrinth page](https://modrinth.com/modpack/mystic-frontiers).
