@@ -1,4 +1,4 @@
-![Mystic Frontiers Title]([https://github.com/user-attachments/assets/42bc92d1-8d13-43be-9d55-2fafafe32d9f](https://github.com/joaovitorborges/Mystic-Frontiers-Modpack/blob/main/images/experimental%20logo.png?raw=true))
+![title](https://github.com/joaovitorborges/Mystic-Frontiers-Modpack/blob/main/images/experimental%20logo.png?raw=true)
 
 ## Issue tracker for Mystic Frontiers Modpack
 
