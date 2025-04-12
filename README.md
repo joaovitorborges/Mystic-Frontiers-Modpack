@@ -1,4 +1,4 @@
-![title](https://github.com/joaovitorborges/Mystic-Frontiers-Modpack/blob/main/images/experimental%20logo.png?raw=true)
+![title](https://raw.githubusercontent.com/joaovitorborges/Mystic-Frontiers-Modpack/refs/heads/main/images/Logo%20no%20BG.webp)
 
 ## Issue tracker for Mystic Frontiers Modpack
 
