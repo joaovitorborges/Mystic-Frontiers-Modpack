@@ -1,4 +1,6 @@
-![title](https://raw.githubusercontent.com/joaovitorborges/Mystic-Frontiers-Modpack/refs/heads/main/images/Logo%20no%20BG.webp)
+<center>
+<img src="https://raw.githubusercontent.com/joaovitorborges/Mystic-Frontiers-Modpack/refs/heads/main/images/Logo%20no%20BG.webp" width="700">  
+</center>
 
 ## Issue tracker for Mystic Frontiers Modpack
 
